@@ -1,1 +1,1 @@
-# DisneylandReviews-sentiment-analysis
+# DisneylandReviews-classification
